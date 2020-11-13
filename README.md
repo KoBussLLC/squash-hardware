@@ -19,6 +19,7 @@ This project uses FreeCAD 0.19 for mechanical CAD. File names are prefixed with 
 ### Required Addons
 - Assembly 4
 - fasteners
+- kicadStepUpMod
 
 ### Mechanical Design Contraints
 - 40% Keyboard Layout
