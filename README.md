@@ -3,6 +3,8 @@
 Small keyboard for big brains with lots of layers
 🤏 ⌨️ 🧠 🍰
 
+![img](doc/squash_canvas.jpg)
+
 This keyboard uses an acyrlic case, POM switchplate, and PCB mounted switches and stabilizers.
 
 See Squash's bigger brother for [build instructions](https://github.com/KoBussLLC/grabert-hardware/blob/main/doc/BUILDGUIDE.md) and [additional information](https://github.com/KoBussLLC/grabert-hardware/blob/main/README.md).
